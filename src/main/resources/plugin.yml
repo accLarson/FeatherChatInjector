@@ -1,0 +1,4 @@
+name: FeatherChatInjector
+version: '1.0.0'
+main: dev.zerek.FeatherChatInjector.FeatherChatInjector
+api-version: '1.21'
