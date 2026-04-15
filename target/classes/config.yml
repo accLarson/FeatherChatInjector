@@ -1,0 +1,4 @@
+# Priority for the chat event listener
+# Options: LOWEST, LOW, NORMAL, HIGH, HIGHEST, MONITOR
+# Set to LOW by default to run before most chat plugins but after anti-spam plugins
+event-listener-priority: LOW
