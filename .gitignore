@@ -1,2 +1,6 @@
-# Project exclude paths
-/target/
+# Build output
+/build/
+
+# Gradle
+/.gradle/
+!gradle/wrapper/gradle-wrapper.jar

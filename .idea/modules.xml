@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/featherchatinjector.iml" filepath="$PROJECT_DIR$/featherchatinjector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FeatherChatInjector.iml" filepath="$PROJECT_DIR$/.idea/FeatherChatInjector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeatherChatInjector.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FeatherChatInjector.main.iml" />
     </modules>
   </component>
 </project>
